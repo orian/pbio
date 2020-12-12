@@ -29,7 +29,7 @@
 package pbio
 
 import (
-	"github.com/golang/protobuf/proto"
+	"google.golang.org/protobuf/proto"
 
 	"bufio"
 	"encoding/binary"
